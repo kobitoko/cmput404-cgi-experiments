@@ -18,7 +18,7 @@ import socket
 import os
 import errno
 
-# Change this to change the proxy's listen port.
+# Change this to change the proxy's listen port. Has to be a different port.
 PORT = 12345
 # Change this to change the hostname and port to proxy to.
 PROXY_TO = ("localhost", 8000)
